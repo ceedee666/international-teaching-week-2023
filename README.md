@@ -8,6 +8,7 @@ the content of the lecture a basic knowledge of [Python](https://python.org) is 
 
 1. [Hello World](hello_world.ipynb)
 2. [Social Interactions](social_interactions.ipynb)
+3. [Measuring the effect of a sugar tax](sugar_tax.ipynb)
 
 ## References 
 
